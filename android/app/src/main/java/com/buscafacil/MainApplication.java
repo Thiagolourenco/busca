@@ -1,4 +1,4 @@
-package com.busca;
+package com.buscafacil;
 
 import android.app.Application;
 

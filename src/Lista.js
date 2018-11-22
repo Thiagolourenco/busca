@@ -5,7 +5,9 @@ import {
     StyleSheet,
     TouchableHighlight,
     Image
-} from 'react-native'
+} from 'react-native';
+import {StackNavigator} from 'react-navigation';
+
 
 export default class Lista extends Component{
 

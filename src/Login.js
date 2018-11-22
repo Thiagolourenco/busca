@@ -6,7 +6,9 @@ import {
     TouchableOpacity,
     Image,
     TextInput
-} from 'react-native'
+} from 'react-native';
+import {StackNavigator} from 'react-navigation';
+
 
 export default class Login extends Component {
     constructor(props){

@@ -1,4 +1,4 @@
-package com.busca;
+package com.buscafacil;
 
 import com.facebook.react.ReactActivity;
 

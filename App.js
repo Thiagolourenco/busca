@@ -5,7 +5,9 @@ import Login from './src/Login';
 import Home from './src/Home';
 import ListaLugares from './src/ListaLugares';
 import Restaurante from './src/Restaurante';
-import Cadastro from './src/Cadastro'
+import Cadastro from './src/Cadastro';
+import Faustino from './src/Faustino';
+import ListaItem from './src/ListaItem';
 
 const Navegador = StackNavigator({
   TelaIncial: {
@@ -25,6 +27,12 @@ const Navegador = StackNavigator({
   },
   Cadastro:{
     screen: Cadastro
+  },
+  Faustino: {
+    screen: Faustino
+  },
+  ListaItem: {
+    screen: ListaItem
   }
 },{
   headerMode: 'none'

@@ -7,7 +7,9 @@ import {
     Image,
     TextInput
 } from 'react-native';
-import Lista from './Lista'
+import Lista from './Lista';
+import {StackNavigator} from 'react-navigation';
+
 export default class Home extends Component {
     
     constructor(props){
