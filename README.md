@@ -1,0 +1,9 @@
+# BuscaFacil ->  - Desenvolvido em React Native
+BuscaFacil aplicativo para facilitar os usuários a encontrar lanchonete, restaurante.
+
+# Instalação
+ * Deve ter o emulador do android instalado.
+ * git clone -
+ * npm i -> Instalar as bibliotecas
+ * react-native run-android
+ 
